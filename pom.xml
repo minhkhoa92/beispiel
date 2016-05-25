@@ -4,7 +4,7 @@
   <groupId>de.hs_furtwangen</groupId>
   <artifactId>beispiel</artifactId>
   <packaging>jar</packaging>
-  <version>jar_fuer_beispiel</version>
+  <version>jarfuerbeispiel</version>
   <name>beispiel</name>
   <url>http://maven.apache.org</url>
   <dependencies>
